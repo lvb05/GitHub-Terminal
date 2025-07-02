@@ -240,7 +240,7 @@
                 <text x="144" textLength="96" class="foreground">$ git status</text>
             </g>
             <g id="g22">
-                <text x="0" textLength="240" font-style="italic" class="foreground">        GitHub Status         </text>
+                <text x="0" textLength="240" font-style="italic" class="foreground">        GitHub_Status         </text>
             </g>
             <g id="g23">
                 <text x="0" textLength="240" class="foreground">&#9556;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9572;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9559;</text>
