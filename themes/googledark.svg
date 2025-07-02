@@ -240,7 +240,7 @@
                 <text x="144" textLength="96" class="foreground">$ git status</text>
             </g>
             <g id="g22">
-                <text x="0" textLength="240" font-style="italic" class="foreground">        GitHub_Status         </text>
+                <text x="0" textLength="240" font-style="italic" class="foreground">        GitHub Status         </text>
             </g>
             <g id="g23">
                 <text x="0" textLength="240" class="foreground">&#9556;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9572;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9559;</text>
@@ -266,7 +266,7 @@
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
                 <text x="8" textLength="120" class="purple"> Forks         </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
-                <text x="136" textLength="96" class="green"> at home         </text>
+                <text x="136" textLength="96" class="green"> many at home       </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
             <g id="g28">
@@ -294,7 +294,7 @@
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
                 <text x="8" textLength="120" class="purple"> Issues        </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
-                <text x="136" textLength="96" class="green"> infinte          </text>
+                <text x="136" textLength="96" class="green"> a lot        </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
             <g id="g32">
